@@ -1,11 +1,12 @@
 ## 👋 Hi, I’m Andrew Wang! 
-I'm a first year MS in Business Analytics student at UCLA Anderson. I believe data has the potential to transform the way we think and interact as a society. As an analyst, I strive to bridge the gap between the business and technical side of analytics while cultivating beneficial two-way relationships between companies and their customers.
+I'm a current MS in Business Analytics student at UCLA Anderson. I believe data has the potential to transform the way we think and interact as a society. As an analyst, I strive to bridge the gap between the business and technical side of analytics while cultivating beneficial two-way relationships between companies and their customers.
 
 Below is a summary of my skills:
-- SQL (MySQL, SQLite)
-- Python (Pandas, NumPy, SciPy, Scikit-Learn, Keras, Seaborn, Matplotlib)
-- R
-- SPSS
+- SQL (MySQL)
+- Python (Pandas, NumPy, SciPy, Scikit-Learn, Seaborn, Matplotlib, Gurobi)
+- R (ggplot2, RMD)
+- Tableau
+- Snowflake
 - Microsoft Excel
 - Microsoft PPT
 
