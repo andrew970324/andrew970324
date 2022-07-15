@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Andrew Wang! 
+## 👋 Hi, I’m Andrew Wang 
 I'm a current MS in Business Analytics student at UCLA Anderson. I believe data has the potential to transform the way we think and make decisions as a society. In my professional work, I strive to use data storytelling as a way to bridge the gap between technical and non-technical audiences while helping organizations cultivate meaningful relationships with their customers.
 
 My skillset includes:
